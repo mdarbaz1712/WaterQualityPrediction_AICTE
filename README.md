@@ -2,7 +2,7 @@
 ## Repository Structure
 
 
-### 3. **Water Quality Predictions**
+### **Water Quality Predictions**
 - **Goal:** Use MultiOutput models to determine water potability and quality indicators.
 - **Contents:**
   - Step-by-step weekly work
